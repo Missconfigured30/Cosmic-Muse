@@ -59,14 +59,24 @@ This project helped me understand real app structuring, UI building, navigation 
 ## 📸 Application Screenshots
 
 ### 📱 Mobile View
-![App Icon](screenshot/1.jpeg)
-![App Icon](screenshot/2.jpeg)
-![App Icon](screenshot/3.jpeg)
-![App Icon](screenshot/4.jpeg)
-![App Icon](screenshot/5.jpeg)
-![App Icon](screenshot/6.jpeg)
-![App Icon](screenshot/7.jpeg)
-![App Icon](screenshot/8.jpeg)
+<div align="center">
+
+<table>
+<tr>
+<td><img src="screenshot/1.jpeg" width="250"/></td>
+<td><img src="screenshot/2.jpeg" width="250"/></td>
+<td><img src="screenshot/3.jpeg" width="250"/></td>
+<td><img src="screenshot/4.jpeg" width="250"/></td>
+</tr>
+<tr>
+<td><img src="screenshot/5.jpeg" width="250"/></td>
+<td><img src="screenshot/6.jpeg" width="250"/></td>
+<td><img src="screenshot/7.jpeg" width="250"/></td>
+<td><img src="screenshot/8.jpeg" width="250"/></td>
+</tr>
+</table>
+
+</div>
 
 
 
